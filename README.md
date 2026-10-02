@@ -4,7 +4,12 @@ Browser extensions made by me.
 
 ## Setup
 
-First, check which manifest version the extension uses. It’s usually **Manifest V2** for Firefox and Firefox-based browsers, and **Manifest V3** for Chrome and Chromium-based browsers.
+First, go to the folder for your browser:
+
+* **[Firefox Extensions](ManifestV2)** — Manifest V2
+* **[Chrome Extensions](ManifestV3)** — Manifest V3
+
+Open the folder of the extension you want, download its extension file, then follow the setup instructions below.
 
 ## Manifest V2
 
@@ -13,7 +18,7 @@ Firefox extensions use `.xpi` files.
 1. Go to `about:addons`.
 2. Click the **Settings** icon below the search bar.
 3. Select **Install Add-on From File...**
-4. Select your `.xpi` file.
+4. Select the downloaded `.xpi` file.
 
 Done.
 
@@ -23,7 +28,7 @@ Chrome extensions use `.crx` files.
 
 1. Go to `chrome://extensions`.
 2. Enable **Developer mode**.
-3. Drag and drop your `.crx` file onto the page.
+3. Drag and drop the downloaded `.crx` file onto the page.
 
 Done.
 
@@ -31,6 +36,6 @@ Done.
 
 I don't know lmfao.
 
-**The code does not read or access your browsing history.** The permission may be required by the browser or included in the extension's manifest, but the extension itself does not use it.
+**The code does not read or access your browsing history.** The extension does not use your browsing history or read your browsing activity.
 
 Your secrets are safe.
