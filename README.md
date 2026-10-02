@@ -4,10 +4,10 @@ Browser extensions made by me.
 
 ## Setup
 
-First, go to the folder for your browser:
+First, go to the folder for the browser you want to use:
 
-* **[Firefox Extensions](ManifestV2)** — Manifest V2
-* **[Chrome Extensions](ManifestV3)** — Manifest V3
+* **[Firefox Extensions](ManifestV2)** — Extensions made for Firefox and Firefox-based browsers.
+* **[Chrome Extensions](ManifestV3)** — Extensions made for Chrome and Chromium-based browsers.
 
 Open the folder of the extension you want, download its extension file, then follow the setup instructions below.
 
