@@ -35,4 +35,20 @@ Done!
 
 ## Chrome Extensions on Mobile
 
-Want to use Chrome extensions on Android? Try [Quetta Browser](https://play.google.com/store/apps/details?id=net.quetta.browser), which supports Chrome extensions on mobile.
+Want to use Chrome extensions on Android? Try [Quetta Browser](https://play.google.com/store/apps/details?id=net.quetta.browser).
+
+### Quetta Browser Setup
+
+1. Tap the **three dots** menu.
+2. Tap the **puzzle icon** to open Extensions.
+3. Select **Manage extensions**.
+4. Open **Developer options**.
+5. Enable **Developer mode**.
+6. Tap **From (.zip/.crx/.user.js)**.
+7. Select the downloaded extension file.
+
+Done!
+
+## Privacy
+
+All extensions are designed with your privacy in mind. They do not log or store your address. Some extensions may request access to your location to provide features such as local weather forecasts, but your location is not logged or stored by the extensions.
