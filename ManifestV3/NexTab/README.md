@@ -1,5 +1,7 @@
 # NexTab
 
+<img width="533" height="286" alt="436484" src="https://github.com/user-attachments/assets/d118d281-b155-4dee-8158-404f7cc252db" />
+
 NexTab replaces the new tab page with a calm, minimal start page that's yours to shape.
 
 Make it yours
